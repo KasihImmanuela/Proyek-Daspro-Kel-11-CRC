@@ -1,0 +1,142 @@
+*********PROGRAM CRC*********
+-------------------------------------
+NIM: 21
+Binary: 10101
+Polynomial: x^4+x^2+1
+Primitive Polynomial: x^2+1
+Primitive Polynomial Binary: 00101
+CRC Result: 0010
+-------------------------------
+NIM: 22
+Binary: 10110
+Polynomial: x^4+x^2+x
+Primitive Polynomial: x^2+x
+Primitive Polynomial Binary: 00110
+CRC Result: 0001
+-------------------------------
+NIM: 23
+Binary: 10111
+Polynomial: x^4+x^2+x+1
+Primitive Polynomial: x^2+x+1
+Primitive Polynomial Binary: 00111
+CRC Result: 0011
+-------------------------------
+NIM: 24
+Binary: 11000
+Polynomial: x^4+x^3
+Primitive Polynomial: x^3
+Primitive Polynomial Binary: 01000
+CRC Result: 0110
+-------------------------------
+NIM: 25
+Binary: 11001
+Polynomial: x^4+x^3+1
+Primitive Polynomial: x^3+1
+Primitive Polynomial Binary: 01001
+CRC Result: 0100
+-------------------------------
+NIM: 26
+Binary: 11010
+Polynomial: x^4+x^3+x
+Primitive Polynomial: x^3+x
+Primitive Polynomial Binary: 01010
+CRC Result: 0001
+-------------------------------
+NIM: 27
+Binary: 11011
+Polynomial: x^4+x^3+x+1
+Primitive Polynomial: x^3+x+1
+Primitive Polynomial Binary: 01011
+CRC Result: 0101
+-------------------------------
+NIM: 28
+Binary: 11100
+Polynomial: x^4+x^3+x^2
+Primitive Polynomial: x^3+x^2
+Primitive Polynomial Binary: 01100
+CRC Result: 0010
+-------------------------------
+NIM: 29
+Binary: 11101
+Polynomial: x^4+x^3+x^2+1
+Primitive Polynomial: x^3+x^2+1
+Primitive Polynomial Binary: 01101
+CRC Result: 0110
+-------------------------------
+NIM: 30
+Binary: 11110
+Polynomial: x^4+x^3+x^2+x
+Primitive Polynomial: x^3+x^2+x
+Primitive Polynomial Binary: 01110
+CRC Result: 0000
+-------------------------------
+NIM: 31
+Binary: 11111
+Polynomial: x^4+x^3+x^2+x+1
+Primitive Polynomial: x^3+x^2+x+1
+Primitive Polynomial Binary: 01111
+CRC Result: 0111
+-------------------------------
+NIM: 32
+Binary: 100000
+Polynomial: x^5
+Primitive Polynomial: 
+Primitive Polynomial Binary: 000000
+CRC Result: 00000
+-------------------------------
+NIM: 33
+Binary: 100001
+Polynomial: x^5+1
+Primitive Polynomial: 1
+Primitive Polynomial Binary: 000001
+CRC Result: 00000
+-------------------------------
+NIM: 34
+Binary: 100010
+Polynomial: x^5+x
+Primitive Polynomial: x
+Primitive Polynomial Binary: 000010
+CRC Result: 00000
+-------------------------------
+NIM: 35
+Binary: 100011
+Polynomial: x^5+x+1
+Primitive Polynomial: x+1
+Primitive Polynomial Binary: 000011
+CRC Result: 00001
+-------------------------------
+NIM: 36
+Binary: 100100
+Polynomial: x^5+x^2
+Primitive Polynomial: x^2
+Primitive Polynomial Binary: 000100
+CRC Result: 00011
+-------------------------------
+NIM: 37
+Binary: 100101
+Polynomial: x^5+x^2+1
+Primitive Polynomial: x^2+1
+Primitive Polynomial Binary: 000101
+CRC Result: 00010
+-------------------------------
+NIM: 38
+Binary: 100110
+Polynomial: x^5+x^2+x
+Primitive Polynomial: x^2+x
+Primitive Polynomial Binary: 000110
+CRC Result: 00010
+-------------------------------
+NIM: 39
+Binary: 100111
+Polynomial: x^5+x^2+x+1
+Primitive Polynomial: x^2+x+1
+Primitive Polynomial Binary: 000111
+CRC Result: 00011
+-------------------------------
+NIM: 40
+Binary: 101000
+Polynomial: x^5+x^3
+Primitive Polynomial: x^3
+Primitive Polynomial Binary: 001000
+CRC Result: 00101
+-------------------------------
